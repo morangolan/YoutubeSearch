@@ -24,7 +24,10 @@ Download the .zip file.  Extract the contents of the zip file, then open your te
 
 ```
 > npm install
+>npm install youtube-api-search
+>npm install lodash
 > npm start
+
 ```
 
 The app runs on localhost:8080
