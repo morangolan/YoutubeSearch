@@ -12,6 +12,9 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 > git clone https://github.com/StephenGrider/YoutubeSearch.git
 > cd YoutubeSearch
+>npm install
+>npm install youtube-api-search
+>npm install lodash
 > npm start
 
 ```
