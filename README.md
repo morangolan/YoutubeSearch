@@ -1,6 +1,6 @@
 # YouTube Search App
 
-Via this app users can look for video from YouTube (uses YT API library). 
+Via this app users can find any YouTube video they want (via YT API Library)
 
 ### Getting Started
 
